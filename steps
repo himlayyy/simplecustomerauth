@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=yROrxaY9N0g&list=PLJM1tXwlGdaf57oUx0rIqSW668Rpo_7oU&index=4
+
+1.create "server" folder with "index.js"
+2.create a "package.json" file and:
+    add dependencies
+        dependencies:
+        nodemon, mongoose,express, dotenv, 
+    add scripts:
+        dev 
+3. in index.js:
+    const express = require("express");
+    const app
