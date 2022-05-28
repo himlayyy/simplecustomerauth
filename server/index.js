@@ -1,7 +1,4 @@
-// user for  mongodb:
-// username: ash 
-// password: G56NczeNrIrevWwb 
-// mongodb+srv://ash:<password>@cluster0.nfggv.mongodb.net/?retryWrites=true&w=majority
+
 
 const express = require("express");
 const mongoose = require("mongoose");
