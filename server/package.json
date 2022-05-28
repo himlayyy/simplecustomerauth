@@ -2,12 +2,13 @@
   "name": "auth",
   "version": "1.0.0",
   "engines": {
-    "node": "16.x"
+    "node": "16.x",
+    "npm":"8.1.2"
   },
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index",
     "heroku-postbuild": "npm run build"
   },
   "author": "",
