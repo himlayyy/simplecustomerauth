@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "react-scripts start",
-     "start": "serve -s build",
-     "build": "react-scripts build",
-     "test": "react-scripts test --env=jsdom",
-     "eject": "react-scripts eject",
-     "heroku-postbuild": "npm run build"
+    "start": "serve -s build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "heroku-postbuild": "npm run build"
   },
   "author": "",
   "license": "ISC",
@@ -21,6 +21,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.3.4",
     "nodemon": "^2.0.16",
+    "react-scripts": "^5.0.1",
     "serve": "^13.0.2"
   }
 }
